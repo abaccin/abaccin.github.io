@@ -8,7 +8,7 @@ favicon: images/favicon.ico
 name: Andrea Baccin
 title: Software Lead Engineer
 email: baccin.andrea@gmail.com
-website: www.github.com/sproogen/resume-theme
+website: https://github.com/abaccin
 
 # Social links
 twitter_username: abaccin
@@ -16,10 +16,9 @@ github_username:  abaccin
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: chillwildlife
-linkedin_username: jameswgrant
+instagram_username: andrea.baccin.photo
+linkedin_username: baccin
 # pinterest_username: jekyll
-youtube_username: globalmtb
 # googleplus_username: +jekyll
 
 # About Section
@@ -41,12 +40,10 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Rock climbing
-   - Gaming
-   - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
+  Home Automation: currently I am building my home automation system based on open source software and standard protocols with all resources running locally within the perimeter of the house and not requiring to access resources online.
+  HP Calculators: I am a huge fan on HP Calculator and evangelist of RPN. I have been country moderator for the Italian forum and contributor of hpcalc.org website.
+  Photography: Nikon user before digital era, currently shooting with a D750 full frame dslr.
+  
 # Footer
 footer_show_references: true
 
