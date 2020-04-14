@@ -26,7 +26,7 @@ youtube_username: globalmtb
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-	I am a computer engineer and .net enthusiasm with over a decade of experience in designing and developing distributed software systems. I have experience in leading, organizing and successfully accomplishing software projects with rich set of features and functionality. Especially, I have been successful inbending abstract system requirements into real software solutions having high security and performance. With strong communication, team cooperation, programming and mentoring capabilities.	
+  I am a computer engineer and .net enthusiasm with over a decade of experience in designing and developing distributed software systems. I have experience in leading, organizing and successfully accomplishing software projects with rich set of features and functionality. Especially, I have been successful inbending abstract system requirements into real software solutions having high security and performance. With strong communication, team cooperation, programming and mentoring capabilities.	
   skills: <mark>AWS</mark> <mark>.net</mark> <mark>Domain Driven Design</mark> <mark>Distributed Systems</mark>
 
 # Projects Section
