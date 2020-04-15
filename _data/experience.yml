@@ -9,4 +9,19 @@
     When I started in Roomex the startup environment was still present, although the company had reached a state where more structure had to be put in place. My role consisted in setting up all the necessary standards patterns and practices to have a high performance engineering team, I was involved in building up the team rituals (stand ups, retros, etc.) but also ramping up the cicd pipeline and creating a culture obsessed with performance, code quality and best practices including infrastructure, code, security and data. 
     While expanding the team and establishing best practices I also introduced the company to cloud native paradigms, especially serverless, queues, topics and api gateways by starting the journey of the migration to a modular microservices architecture.
     I also helped to grow the team by screening, interviewing and giving green light to hire several backend and frontend engineers
-    Skills: <mark>AWS</mark> <mark>.net</mark> <mark>Domain Driven Design</mark> <mark>Distributed Systems</mark>  <mark>SOLID</mark>
+    
+    Technologies: <mark>AWS</mark> <mark>.net</mark> <mark>Domain Driven Design</mark> <mark>Distributed Systems</mark>  <mark>SOLID</mark>
+    
+- layout: left
+  company: Roomex Ltd
+  link: roomex.com
+  job_title: Principle Software Engineer
+  dates: July 2018 - Present
+  quote: >
+   Search, book, manage and pay for all your workforce hotel bookings in one place.
+  description: | # this will include new lines to allow paragraphs
+    When I started in Roomex the startup environment was still present, although the company had reached a state where more structure had to be put in place. My role consisted in setting up all the necessary standards patterns and practices to have a high performance engineering team, I was involved in building up the team rituals (stand ups, retros, etc.) but also ramping up the cicd pipeline and creating a culture obsessed with performance, code quality and best practices including infrastructure, code, security and data. 
+    While expanding the team and establishing best practices I also introduced the company to cloud native paradigms, especially serverless, queues, topics and api gateways by starting the journey of the migration to a modular microservices architecture.
+    I also helped to grow the team by screening, interviewing and giving green light to hire several backend and frontend engineers
+    
+    Technologies: <mark>AWS</mark> <mark>.net</mark> <mark>Domain Driven Design</mark> <mark>Distributed Systems</mark>  <mark>SOLID</mark>    
