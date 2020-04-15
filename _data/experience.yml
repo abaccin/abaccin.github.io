@@ -10,18 +10,28 @@
     While expanding the team and establishing best practices I also introduced the company to cloud native paradigms, especially serverless, queues, topics and api gateways by starting the journey of the migration to a modular microservices architecture.
     I also helped to grow the team by screening, interviewing and giving green light to hire several backend and frontend engineers
     
-    Technologies: <mark>AWS</mark> <mark>.net</mark> <mark>Domain Driven Design</mark> <mark>Distributed Systems</mark>  <mark>SOLID</mark>
+    Technologies: <mark>AWS</mark> <mark>.net</mark> <mark>Domain Driven Design</mark> <mark>Distributed Systems</mark> <mark>SOLID</mark>
     
 - layout: left
-  company: Roomex Ltd
-  link: roomex.com
-  job_title: Principle Software Engineer
-  dates: July 2018 - Present
+  company: Fleetmatics - Verizon Connect
+  link: www.verizonconnect.com
+  job_title: Senior Software Engineer
+  dates: July 2015 - July 2018
   quote: >
-   Search, book, manage and pay for all your workforce hotel bookings in one place.
+   Fleet management software to help move your business forward.
   description: | # this will include new lines to allow paragraphs
-    When I started in Roomex the startup environment was still present, although the company had reached a state where more structure had to be put in place. My role consisted in setting up all the necessary standards patterns and practices to have a high performance engineering team, I was involved in building up the team rituals (stand ups, retros, etc.) but also ramping up the cicd pipeline and creating a culture obsessed with performance, code quality and best practices including infrastructure, code, security and data. 
-    While expanding the team and establishing best practices I also introduced the company to cloud native paradigms, especially serverless, queues, topics and api gateways by starting the journey of the migration to a modular microservices architecture.
-    I also helped to grow the team by screening, interviewing and giving green light to hire several backend and frontend engineers
-    
-    Technologies: <mark>AWS</mark> <mark>.net</mark> <mark>Domain Driven Design</mark> <mark>Distributed Systems</mark>  <mark>SOLID</mark>    
+  Projects:
+  Automatic microservice code generation tool. Based on a custom DSL that defines thenature of the service the tool will create all necessary boilerplate code for amicroservice. 
+  Key technologies: c#, dsl, t4, cqrs, design patterns.
+  Core platform microservices for high volume and high availability like vehicles,geofences, sensors, etc. 
+  Key technologies: c#, windows services, redis, memcached,cqrs, design patterns, sql server, automapper.
+  Toggle Handling system: winner of "Best Architecture Project" in the Fleetmatics Hackathon 2017, is a hierarchical toggle system where features can be set global, perapplication or per account. 
+  Key technologies: c#, .net core, docker, linux, redis,memcached, mediator, kestrel.
+  Service decoupling from monolith solution: Several projects related to creatingmicroservices and pipelines to process messages coming from different layers of theapplication. 
+  Key technologies: c#, windows services, docker, redis, memcached, cqrs,design patterns, sql server, automapper, mediatr, polly, rabbitMq.
+  Alerting services redesign: complete redesign of existing alerting service to allowbetter scalability of the platform. 
+  Key technologies: c#, windows services, docker,redis, memcached, cqrs, design patterns, sql server, automapper, mediatr, polly,rabbitMq, NServiceBus, aws, lambda, docker, xrays
+  Technologies: <mark>c#</mark> <mark>dsl</mark> <mark>t4</mark> <mark>cqrs</mark> <mark>design patterns</mark>
+  Core platform microservices for high volume and high availability like vehicles, geofences, sensors, etc.
+  Key technologies: c#, windows services, redis, memcached,
+
