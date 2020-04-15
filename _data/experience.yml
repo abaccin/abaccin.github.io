@@ -11,27 +11,3 @@
     I also helped to grow the team by screening, interviewing and giving green light to hire several backend and frontend engineers
     
     Technologies: <mark>AWS</mark> <mark>.net</mark> <mark>Domain Driven Design</mark> <mark>Distributed Systems</mark> <mark>SOLID</mark>
-    
-- layout: left
-  company: Fleetmatics - Verizon Connect
-  link: www.verizonconnect.com
-  job_title: Senior Software Engineer
-  dates: July 2015 - July 2018
-  quote: >
-   Fleet management software to help move your business forward.
-  description: | # this will include new lines to allow paragraphs
-  Projects:
-  Automatic microservice code generation tool. Based on a custom DSL that defines thenature of the service the tool will create all necessary boilerplate code for amicroservice. 
-  Key technologies: c#, dsl, t4, cqrs, design patterns.
-  Core platform microservices for high volume and high availability like vehicles,geofences, sensors, etc. 
-  Key technologies: c#, windows services, redis, memcached,cqrs, design patterns, sql server, automapper.
-  Toggle Handling system: winner of "Best Architecture Project" in the Fleetmatics Hackathon 2017, is a hierarchical toggle system where features can be set global, perapplication or per account. 
-  Key technologies: c#, .net core, docker, linux, redis,memcached, mediator, kestrel.
-  Service decoupling from monolith solution: Several projects related to creatingmicroservices and pipelines to process messages coming from different layers of theapplication. 
-  Key technologies: c#, windows services, docker, redis, memcached, cqrs,design patterns, sql server, automapper, mediatr, polly, rabbitMq.
-  Alerting services redesign: complete redesign of existing alerting service to allowbetter scalability of the platform. 
-  Key technologies: c#, windows services, docker,redis, memcached, cqrs, design patterns, sql server, automapper, mediatr, polly,rabbitMq, NServiceBus, aws, lambda, docker, xrays
-  Technologies: <mark>c#</mark> <mark>dsl</mark> <mark>t4</mark> <mark>cqrs</mark> <mark>design patterns</mark>
-  Core platform microservices for high volume and high availability like vehicles, geofences, sensors, etc.
-  Key technologies: c#, windows services, redis, memcached,
-
